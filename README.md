@@ -1,4 +1,4 @@
-# HarvirMinesweeper
+# Harvir Minesweeper
 A simple Minesweeper Implementation in the terminal
 
 Compile and Run the file.
